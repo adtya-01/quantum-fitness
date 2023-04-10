@@ -13,10 +13,10 @@ const App = () => (
   <Box width="400px" sx={{ width: { xl: '1488px' } }} m="auto">
     <Navbar />
     <Routes>
-      <Route path="/" element={<Home />} />
+      <Route index = "true" element={<Home />} />
       <Route path="/exercise/:id" element={<ExerciseDetail />} />
     </Routes>
-    <Home/>
+    {/* <Home/> */}
     <Footer />
   </Box>
 );
