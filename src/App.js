@@ -17,8 +17,6 @@ const App = () => (
       <Route path="/quantum-fitness" element={<Home />} />
       <Route path="/exercise/:id" element={<ExerciseDetail />} />
     </Routes>
-    <HeroBanner />
-    <Exercises />
     <Footer />
   </Box>
 );
