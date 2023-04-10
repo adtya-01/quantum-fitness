@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/quantum-fitness/static/css/main.9eb867cd.css",
+    "main.js": "/quantum-fitness/static/js/main.f006a812.js",
+    "static/media/banner.png": "/quantum-fitness/static/media/banner.ada2a10f1fbf714043e2.png",
+    "static/media/Logo-1.png": "/quantum-fitness/static/media/Logo-1.d2bd363c0d1476ff45d1.png",
+    "static/media/gym.png": "/quantum-fitness/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/quantum-fitness/index.html",
+    "main.9eb867cd.css.map": "/quantum-fitness/static/css/main.9eb867cd.css.map",
+    "main.f006a812.js.map": "/quantum-fitness/static/js/main.f006a812.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9eb867cd.css",
+    "static/js/main.f006a812.js"
+  ]
+}
