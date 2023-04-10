@@ -22,10 +22,10 @@ To use Quantum Fitness on your local machine, simply clone the repository and op
 
 
 ```bash
-  git clone https://github.com/adtya-01/TinDog.git
+  git clone https://github.com/adtya-01/quantum-fitness.git
 ```
   - Open index.html in your web browser
-  - Start browsing and connecting with other dog owners!
+  - Start browsing and working out
 
 ## Contribution
 
@@ -33,4 +33,4 @@ If you find a bug or would like to suggest an improvement, please feel free to o
 
 ## Screenshots
 
-<img src ="https://repository-images.githubusercontent.com/351409525/51bcca45-1618-4148-b2a2-e787f3991f72">
+<img src ="">
