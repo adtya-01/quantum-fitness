@@ -28,10 +28,10 @@ const Detail = ({ exerciseDetail }) => {
     <Stack gap="60px" sx={{ flexDirection: { lg: 'row' }, p: '20px', alignItems: 'center' }}>
       <img src={gifUrl} alt={name} loading="lazy" className="detail-image" />
       <Stack sx={{ gap: { lg: '35px', xs: '20px' } }}>
-        <Typography sx={{ fontSize: { lg: '64px', xs: '30px' } }} fontWeight={700} textTransform="capitalize" color="#F0ECCF">
+        <Typography sx={{ fontSize: { lg: '64px', xs: '30px' } }} fontWeight={700} textTransform="capitalize" color="#A3BB98">
           {name}
         </Typography>
-        <Typography sx={{ fontSize: { lg: '24px', xs: '18px' } }} color="#F0ECCF">
+        <Typography sx={{ fontSize: { lg: '24px', xs: '18px' } }} color="#FDD36A">
           Exercises keep you strong.{' '}
           <span style={{ textTransform: 'capitalize' }}>{name}</span> bup is one
           of the best <br /> exercises to target your {target}. It will help you improve your{' '}

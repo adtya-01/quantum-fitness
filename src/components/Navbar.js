@@ -2,8 +2,6 @@
 import { Link } from "react-router-dom";
 import { Stack } from "@mui/system";
 import Logo from "../assets/images/Logo-1.png";
-import { useState } from "react";
-import { NavLink } from "react-router-dom";
 import "./NavBar.css";
 
 
@@ -34,7 +32,7 @@ const Navbar = () => {
           to="/"
           style={{
             textDecoration: "none",
-            color: "#F0ECCF",
+            color: "#FDD36A",
             borderBottom: "3px solid #A3BB98",
           }}
         >
@@ -42,7 +40,7 @@ const Navbar = () => {
         </Link>
         <a
           href="#exercises"
-          style={{ textDecoration: "none", color: "#F0ECCF" }}
+          style={{ textDecoration: "none", color: "#FDD36A" }}
         >
           Exercises
         </a>

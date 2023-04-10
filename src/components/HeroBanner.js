@@ -3,9 +3,7 @@ import { Box, Typography, Button } from "@mui/material";
 import HeroBannerImage from "../assets/images/banner.png";
 import { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import { ArrowRightCircle } from "react-bootstrap-icons";
 import TrackVisibility from "react-on-screen";
-import { color } from "@mui/system";
 
 export const HeroBanner = () => {
   const [loopNum, setLoopNum] = useState(0);
@@ -59,7 +57,7 @@ export const HeroBanner = () => {
       position="relative"
       p="20px"
     >
-      <Typography color="#F0ECCF" fontWeight="600" fontSize="60px" mb="30px">
+      <Typography color="#FDD36A" fontWeight="600" fontSize="60px" mb="30px">
         Quantum Fitness
       </Typography>
       <section className="banner" id="home">
@@ -88,7 +86,7 @@ export const HeroBanner = () => {
                       fontFamily="Alegreya"
                       lineHeight="35px"
                       mt="30px"
-                      color="#F0ECCF"
+                      color="#FDD36A"
                     >
                       Check out <span style={{color:"#A3BB98"}}>bodyweight</span> and <span style={{color:"#A3BB98"}}>gym </span>workouts personalized to you
                     </Typography>
