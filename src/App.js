@@ -7,8 +7,7 @@ import ExerciseDetail from './pages/ExerciseDetail';
 import Home from './pages/Home';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
-import HeroBanner from './components/HeroBanner';
-import SearchExercises from './components/SearchExercises';
+
 
 const App = () => (
   <Box width="400px" sx={{ width: { xl: '1488px' } }} m="auto">
@@ -17,8 +16,7 @@ const App = () => (
       <Route path="/" element={<Home />} />
       <Route path="/exercise/:id" element={<ExerciseDetail />} />
     </Routes>
-    <HeroBanner/>
-    <SearchExercises/>
+    <Home/>
     <Footer />
   </Box>
 );
