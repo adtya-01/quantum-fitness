@@ -17,7 +17,7 @@ const App = () => (
       <Route path="/exercise/:id" element={<ExerciseDetail />} />
     </Routes>
     {/* <Home/> */}
-    <Footer />
+    <Footer/>
   </Box>
 );
 
