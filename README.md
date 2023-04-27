@@ -8,7 +8,6 @@ Quantum Fitness is a Gym Fitness App created using ReactJS, Material UI and Exer
 
 
 
-
 ## Demo
 
 You can try out the Tindog application live at [[Quantum-Fitness](https://quantumfitness.netlify.app/)]
