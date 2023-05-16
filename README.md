@@ -30,7 +30,6 @@ To use Quantum Fitness on your local machine, simply clone the repository and op
 If you find a bug or would like to suggest an improvement, please feel free to open an issue or submit a pull request.
 
 ## Screenshots
-
 <img src = coverpg.png>
 <img src = searchpg.png>
 <img src = detail.png>
