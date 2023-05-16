@@ -19,7 +19,6 @@ To use Quantum Fitness on your local machine, simply clone the repository and op
 
 - Clone the repository:
 
-
 ```bash
   git clone https://github.com/adtya-01/quantum-fitness.git
 ```
